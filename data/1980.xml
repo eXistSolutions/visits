@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <visits>
     <visit>
         <id>400</id>
@@ -1804,7 +1804,7 @@
         <id>550</id>
         <start-date>1984-02-27</start-date>
         <end-date>1984-02-29</end-date>
-        <visitor>President Rudolf Kirschschlaeger</visitor>
+        <visitor>President Rudolf Kirchschlaeger</visitor>
         <from id="austria">Austria</from>
         <description>State visit; visited New York City, Chicago, San Francisco, and Los Angeles. Departed U.S. March 5.</description>
         <created-by>wicentowskijc</created-by>

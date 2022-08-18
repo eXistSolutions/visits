@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <visits>
     <visit>
         <id>113</id>
@@ -88,7 +88,7 @@
         <id>120</id>
         <start-date>1970-07-23</start-date>
         <end-date>1970-07-25</end-date>
-        <visitor>President Uhro K. Kekkonen</visitor>
+        <visitor>President Urho K. Kekkonen</visitor>
         <from id="finland">Finland</from>
         <description>Official visit. In U.S. July 22–27; visited Williamsburg, Fitchburg (Mass.), Wood’s Hole, and New York City.</description>
         <created-by>wicentowskijc</created-by>
@@ -220,7 +220,7 @@
         <id>131</id>
         <start-date>1970-10-24</start-date>
         <end-date>1970-10-24</end-date>
-        <visitor>President Uhro K. Kekkonen</visitor>
+        <visitor>President Urho K. Kekkonen</visitor>
         <from id="finland">Finland</from>
         <description>Attended White House dinner on 25th Anniversary of the U.N</description>
         <created-by>wicentowskijc</created-by>
@@ -2008,7 +2008,7 @@
         <id>280</id>
         <start-date>1976-08-03</start-date>
         <end-date>1976-08-05</end-date>
-        <visitor>President Uhro K. Kekkonen</visitor>
+        <visitor>President Urho K. Kekkonen</visitor>
         <from id="finland">Finland</from>
         <description>State visit. Private visit to New York City, Hancock (Mich.), and Williamsburg July 30–August 3. Private visit afterwards to Minneapolis and New York City.</description>
         <created-by>wicentowskijc</created-by>
